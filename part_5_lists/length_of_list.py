@@ -1,0 +1,5 @@
+# length of list = len()
+
+cars = ["bmw", "audi", "toyota", "subaru"]
+len(cars)
+print(len(cars))
